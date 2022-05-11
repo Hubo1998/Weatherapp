@@ -1,5 +1,4 @@
-# Project Name
-> Weather app
+# Weather app
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,7 +10,15 @@
 * [Contact](#contact)
 
 ## General info
-Project made for mark.
+Project made for mark. It's Weather app showing us current temperature in City we type into the searchbar.
+
+![image](https://user-images.githubusercontent.com/64363554/167825247-7dc67f35-23a8-4ebc-bf24-67ab5c341b52.png)  
+
+We can choose in what units app will show temperature for us.  
+
+![image](https://user-images.githubusercontent.com/64363554/167825968-82133b44-b72b-40ea-ba02-bb70d7a207e0.png)  
+
+
 
 ## Technologies
 * JavaScript
